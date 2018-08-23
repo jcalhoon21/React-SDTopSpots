@@ -1,0 +1,16 @@
+body {
+    background: #ec6f66; /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #ec6f66, #f3a183); /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #ec6f66, #f3a183); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+.jumbotron {
+    background-color: #fff;
+}
+
+.well {
+    background-color: #fff;
+    margin: 1%;
+    padding: 1%;
+    border-radius: 4px;
+}
